@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aw_Man3703&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AwMan3703&theme=prussian&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
